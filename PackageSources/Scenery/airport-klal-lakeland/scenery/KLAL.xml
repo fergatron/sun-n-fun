@@ -1,0 +1,421 @@
+<?xml version="1.0"?>
+<FSData version="9.0">
+	<!--SceneryObject name: Avion-allegro-->
+	<SceneryObject parentGroupID="16" groupIndex="21" lat="27.99303195273315" lon="-82.01662839415916" alt="0.00000000000000" pitch="0.001127" bank="-0.001127" heading="134.646839" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="TRUE" snapToNormal="FALSE">
+		<LibraryObject name="{9514425D-A464-4275-1388-809F5C44C5AC}" scale="1.000000"/>
+	</SceneryObject>
+	<!--SceneryObject name: Avion-f18-->
+	<SceneryObject parentGroupID="13" groupIndex="12" lat="27.99291330658455" lon="-82.01747343152991" alt="0.00000000000000" pitch="0.000369" bank="-0.000369" heading="45.876093" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="TRUE" snapToNormal="FALSE">
+		<LibraryObject name="{304F8FDA-7CE7-4457-60B7-455B513663C9}" scale="1.000000"/>
+	</SceneryObject>
+	<!--SceneryObject name: AvionC172totof-->
+	<SceneryObject parentGroupID="15" groupIndex="9" lat="27.99271673400738" lon="-82.01716636828856" alt="0.00000000000000" pitch="-0.002254" bank="-0.002657" heading="138.041675" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="TRUE" snapToNormal="FALSE">
+		<LibraryObject name="{496E16A6-97C2-4E92-30A1-51D09CFA3FE1}" scale="1.000000"/>
+	</SceneryObject>
+	<!--SceneryObject name: AvionCessna172F-HAFL-->
+	<SceneryObject parentGroupID="15" groupIndex="8" lat="27.99278618019886" lon="-82.01726678445421" alt="0.00000000000000" pitch="-0.002145" bank="-0.002377" heading="136.583593" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="TRUE" snapToNormal="FALSE">
+		<LibraryObject name="{1E3B8B3F-09CB-4E71-43FF-B00B1FBC26FE}" scale="1.000000"/>
+	</SceneryObject>
+	<!--SceneryObject name: AvionCessna421-->
+	<SceneryObject parentGroupID="12" groupIndex="2" lat="27.99366342314914" lon="-82.01738987361773" alt="0.00000000000000" pitch="0.000362" bank="-0.000362" heading="135.465601" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="TRUE" snapToNormal="FALSE">
+		<LibraryObject name="{9F04691C-4D61-4009-98E7-CB738273A45B}" scale="1.000000"/>
+	</SceneryObject>
+	<!--SceneryObject name: AvionCessnaL19army-->
+	<SceneryObject parentGroupID="17" groupIndex="6" lat="27.99397832465063" lon="-82.01660332193873" alt="0.00000000000000" pitch="0.000642" bank="-0.000642" heading="81.167072" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="TRUE" snapToNormal="FALSE">
+		<LibraryObject name="{593F4027-BE45-4857-843F-BD4B6E29C183}" scale="1.000000"/>
+	</SceneryObject>
+	<!--SceneryObject name: AvionDr400totof-->
+	<SceneryObject parentGroupID="16" groupIndex="22" lat="27.99291954965803" lon="-82.01674615004052" alt="0.00000000000000" pitch="0.001544" bank="-0.001544" heading="136.963120" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="TRUE" snapToNormal="FALSE">
+		<LibraryObject name="{3EDAB0DC-982C-4FE4-10B4-171EE30B4002}" scale="1.000000"/>
+	</SceneryObject>
+	<!--SceneryObject name: AvionDr400totof-G-BAGR-->
+	<SceneryObject parentGroupID="16" groupIndex="1" lat="27.99332817791852" lon="-82.01716973711216" alt="0.00000000000000" pitch="0.001544" bank="-0.001544" heading="-47.532260" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="TRUE" snapToNormal="FALSE">
+		<LibraryObject name="{A42846E6-06A8-4FF3-A87E-A63354B66B65}" scale="1.000000"/>
+	</SceneryObject>
+	<!--SceneryObject name: AvionDr400totofFGBVT-->
+	<SceneryObject parentGroupID="16" groupIndex="2" lat="27.99346652842771" lon="-82.01683880329308" alt="0.00000000000000" pitch="0.001127" bank="-0.001127" heading="134.646839" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="TRUE" snapToNormal="FALSE">
+		<LibraryObject name="{26972193-526A-4894-E5DA-35AB67088E06}" scale="1.000000"/>
+	</SceneryObject>
+	<!--SceneryObject name: AvionDr400totofFGDKF-->
+	<SceneryObject parentGroupID="16" groupIndex="3" lat="27.99355364151476" lon="-82.01690811890425" alt="0.00000000000000" pitch="0.001544" bank="-0.001544" heading="-45.352893" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="TRUE" snapToNormal="FALSE">
+		<LibraryObject name="{A5FD91CA-4E85-406C-E8AD-4A2141B7C4FD}" scale="1.000000"/>
+	</SceneryObject>
+	<!--SceneryObject name: AvionDr400totofFGDYK-->
+	<SceneryObject parentGroupID="16" groupIndex="4" lat="27.99343464494197" lon="-82.01704911127845" alt="0.00000000000000" pitch="0.001544" bank="-0.001544" heading="-45.353013" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="TRUE" snapToNormal="FALSE">
+		<LibraryObject name="{8839EDFD-8EA6-433E-3913-4D79E49D52B1}" scale="1.000000"/>
+	</SceneryObject>
+	<!--SceneryObject name: AvionJodelD112LIVREE1-->
+	<SceneryObject parentGroupID="16" groupIndex="8" lat="27.99324647363058" lon="-82.01656356308514" alt="0.00000000000000" pitch="0.001544" bank="-0.001544" heading="-45.352876" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="TRUE" snapToNormal="FALSE">
+		<LibraryObject name="{B0E1AD81-A1B4-44CA-537A-66FC8548FD87}" scale="1.000000"/>
+	</SceneryObject>
+	<!--SceneryObject name: AvionJodelD112casaFPHLS2-->
+	<SceneryObject parentGroupID="16" groupIndex="7" lat="27.99332427512537" lon="-82.01665604501228" alt="0.00000000000000" pitch="0.001127" bank="-0.001127" heading="134.646839" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="TRUE" snapToNormal="FALSE">
+		<LibraryObject name="{104631A0-5D18-408C-5B12-152D9B62BB8C}" scale="1.000000"/>
+	</SceneryObject>
+	<!--SceneryObject name: AvionJodelD112casaFPMER-->
+	<SceneryObject parentGroupID="16" groupIndex="6" lat="27.99340030936121" lon="-82.01674241288498" alt="0.00000000000000" pitch="0.001544" bank="-0.001544" heading="-46.972608" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="TRUE" snapToNormal="FALSE">
+		<LibraryObject name="{4CB10A00-F027-4927-907F-CFA77FAA8DEF}" scale="1.000000"/>
+	</SceneryObject>
+	<!--SceneryObject name: AvionJodelD140BleuUNI-->
+	<SceneryObject parentGroupID="16" groupIndex="5" lat="27.99311749822710" lon="-82.01670389856569" alt="0.00000000000000" pitch="0.001544" bank="-0.001544" heading="-46.973905" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="TRUE" snapToNormal="FALSE">
+		<LibraryObject name="{A1D97FBC-3784-472C-5AEC-55C552CFB10E}" scale="1.000000"/>
+	</SceneryObject>
+	<!--SceneryObject name: AvionJodelD140Bleuciel-->
+	<SceneryObject parentGroupID="16" groupIndex="14" lat="27.99319854876863" lon="-82.01678926624749" alt="0.00000000000000" pitch="0.001127" bank="-0.001127" heading="134.646839" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="TRUE" snapToNormal="FALSE">
+		<LibraryObject name="{2634F11C-3224-4A31-8181-43548817AB7F}" scale="1.000000"/>
+	</SceneryObject>
+	<!--SceneryObject name: AvionJodelD140Jaune-->
+	<SceneryObject parentGroupID="16" groupIndex="16" lat="27.99308551187739" lon="-82.01690809814419" alt="0.00000000000000" pitch="0.001127" bank="-0.001127" heading="134.646839" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="TRUE" snapToNormal="FALSE">
+		<LibraryObject name="{0A4BB45A-ECD0-40AD-3593-69A257CB5A2D}" scale="1.000000"/>
+	</SceneryObject>
+	<!--SceneryObject name: AvionJodelD140ORANGE-->
+	<SceneryObject parentGroupID="16" groupIndex="19" lat="27.99327806240706" lon="-82.01687716882961" alt="0.00000000000000" pitch="0.001544" bank="-0.001544" heading="-45.353102" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="TRUE" snapToNormal="FALSE">
+		<LibraryObject name="{8D75E76E-1675-494D-210A-8055D7CB834A}" scale="1.000000"/>
+	</SceneryObject>
+	<!--SceneryObject name: AvionJodelD140Red-->
+	<SceneryObject parentGroupID="16" groupIndex="20" lat="27.99335430710820" lon="-82.01696856794217" alt="0.00000000000000" pitch="0.001127" bank="-0.001127" heading="134.646839" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="TRUE" snapToNormal="FALSE">
+		<LibraryObject name="{2012CE19-C8F0-40F1-F1A7-A22A763FF2EA}" scale="1.000000"/>
+	</SceneryObject>
+	<!--SceneryObject name: AvionJodelD140RedBlack-->
+	<SceneryObject parentGroupID="16" groupIndex="17" lat="27.99324821336899" lon="-82.01709056723097" alt="0.00000000000000" pitch="0.001127" bank="-0.001127" heading="134.646839" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="TRUE" snapToNormal="FALSE">
+		<LibraryObject name="{B49B54B3-F8A2-4709-E3C0-1C03FA8F0D39}" scale="1.000000"/>
+	</SceneryObject>
+	<!--SceneryObject name: AvionJodelD140RougeNoir-->
+	<SceneryObject parentGroupID="16" groupIndex="18" lat="27.99316419897142" lon="-82.01700254027463" alt="0.00000000000000" pitch="0.001544" bank="-0.001544" heading="-44.780810" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="TRUE" snapToNormal="FALSE">
+		<LibraryObject name="{A4581648-C786-4EBB-FD80-E55BE79D7294}" scale="1.000000"/>
+	</SceneryObject>
+	<!--SceneryObject name: AvionJodelD140RougeOrange-->
+	<SceneryObject parentGroupID="16" groupIndex="15" lat="27.99300335424791" lon="-82.01682287892928" alt="0.00000000000000" pitch="0.001544" bank="-0.001544" heading="-45.352678" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="TRUE" snapToNormal="FALSE">
+		<LibraryObject name="{CFE6877A-53D9-46F2-FE5F-332EF6E5BA05}" scale="1.000000"/>
+	</SceneryObject>
+	<!--SceneryObject name: AvionJodelD140VERT-->
+	<SceneryObject parentGroupID="16" groupIndex="9" lat="27.99339246892150" lon="-82.01641070338066" alt="0.00000000000000" pitch="0.001544" bank="-0.001544" heading="-45.353289" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="TRUE" snapToNormal="FALSE">
+		<LibraryObject name="{A275EBCF-678E-44EE-30BC-235EE2CC58D9}" scale="1.000000"/>
+	</SceneryObject>
+	<!--SceneryObject name: AvionJodelSICILEbleu-->
+	<SceneryObject parentGroupID="16" groupIndex="10" lat="27.99347598055945" lon="-82.01650175498818" alt="0.00000000000000" pitch="0.001127" bank="-0.001127" heading="134.646839" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="TRUE" snapToNormal="FALSE">
+		<LibraryObject name="{9655245B-2C31-4DCB-3F09-7DDA7415571E}" scale="1.000000"/>
+	</SceneryObject>
+	<!--SceneryObject name: AvionJodelSICILEbleuCiel-->
+	<SceneryObject parentGroupID="16" groupIndex="11" lat="27.99354609961736" lon="-82.01658011317065" alt="0.00000000000000" pitch="0.001544" bank="-0.001544" heading="-44.219912" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="TRUE" snapToNormal="FALSE">
+		<LibraryObject name="{2A857827-2CCC-4BEF-1101-BD6B518278EE}" scale="1.000000"/>
+	</SceneryObject>
+	<!--SceneryObject name: AvionJodelSICILEfBLAY-->
+	<SceneryObject parentGroupID="16" groupIndex="12" lat="27.99361797487782" lon="-82.01666761817840" alt="0.00000000000000" pitch="0.001127" bank="-0.001127" heading="134.646839" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="TRUE" snapToNormal="FALSE">
+		<LibraryObject name="{E5367941-1C6B-4B9E-6FA6-EFFB36641B22}" scale="1.000000"/>
+	</SceneryObject>
+	<!--SceneryObject name: AvionJodelSICILEpastel-->
+	<SceneryObject parentGroupID="16" groupIndex="13" lat="27.99369363449476" lon="-82.01674650798030" alt="0.00000000000000" pitch="0.001544" bank="-0.001544" heading="-45.772567" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="TRUE" snapToNormal="FALSE">
+		<LibraryObject name="{E67E93F9-E018-4668-C630-9AFB03553F41}" scale="1.000000"/>
+	</SceneryObject>
+	<!--SceneryObject name: AvionPiper28totof-->
+	<SceneryObject parentGroupID="15" groupIndex="6" lat="27.99262008153006" lon="-82.01728597773798" alt="0.00000000000000" pitch="0.002281" bank="0.002083" heading="-43.425267" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="TRUE" snapToNormal="FALSE">
+		<LibraryObject name="{257C1F42-8622-491C-142F-9ED0E89EA04B}" scale="1.000000"/>
+	</SceneryObject>
+	<!--SceneryObject name: AvionSR22totof-->
+	<SceneryObject parentGroupID="15" groupIndex="7" lat="27.99287721883272" lon="-82.01715613986224" alt="0.00000000000000" pitch="-0.002152" bank="-0.002404" heading="136.839848" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="TRUE" snapToNormal="FALSE">
+		<LibraryObject name="{E8A668C8-2AC6-4858-0F0F-9C0A6C454A8E}" scale="1.000000"/>
+	</SceneryObject>
+	<!--SceneryObject name: AvionbecchC18-->
+	<SceneryObject parentGroupID="12" groupIndex="1" lat="27.99354046621285" lon="-82.01722328434258" alt="0.00000000000000" pitch="0.001366" bank="-0.001346" heading="-46.068017" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="TRUE" snapToNormal="FALSE">
+		<LibraryObject name="{7B2825D2-F8C3-4917-961E-6839D749095E}" scale="1.000000"/>
+	</SceneryObject>
+	<!--SceneryObject name: TOTOF-DA20ULM-->
+	<SceneryObject parentGroupID="11" groupIndex="3" lat="27.99223317017369" lon="-82.01576580854746" alt="0.00000000000000" pitch="0.000389" bank="-0.000362" heading="134.908421" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="TRUE" snapToNormal="FALSE">
+		<LibraryObject name="{65111BCD-7DC5-4310-F6F3-55BE249AB936}" scale="1.000000"/>
+	</SceneryObject>
+	<!--SceneryObject name: TOTOF-TBM900-01-->
+	<SceneryObject parentGroupID="9" groupIndex="3" lat="27.99237401123943" lon="-82.01560765013845" alt="0.00000000000000" pitch="0.000676" bank="-0.000676" heading="-135.836138" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="TRUE" snapToNormal="FALSE">
+		<LibraryObject name="{F9BFDE94-F371-43E8-DCA0-53BF3746ACEA}" scale="1.000000"/>
+	</SceneryObject>
+	<!--SceneryObject name: TOTOF-TBM900-02-->
+	<SceneryObject parentGroupID="9" groupIndex="2" lat="27.99248886998393" lon="-82.01569261920451" alt="0.00000000000000" pitch="0.001544" bank="-0.001544" heading="46.298045" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="TRUE" snapToNormal="FALSE">
+		<LibraryObject name="{6C3C4E8B-D878-4334-7BDB-8796AF2B850B}" scale="1.000000"/>
+	</SceneryObject>
+	<!--SceneryObject name: TOTOF-TBM900-03-->
+	<SceneryObject parentGroupID="9" lat="27.99256193477112" lon="-82.01581894796360" alt="0.00000000000000" pitch="0.000676" bank="-0.000676" heading="-135.836138" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="TRUE" snapToNormal="FALSE">
+		<LibraryObject name="{1DF1D30E-2D8C-4A94-68E1-BA56CFE1C37C}" scale="1.000000"/>
+	</SceneryObject>
+	<!--SceneryObject name: TOTOF-TBM900-05-->
+	<SceneryObject parentGroupID="9" groupIndex="1" lat="27.99266936679828" lon="-82.01589220294592" alt="0.00000000000000" pitch="0.001516" bank="-0.001516" heading="44.462103" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="TRUE" snapToNormal="FALSE">
+		<LibraryObject name="{0B47B787-9A91-4694-4F9F-8DBF20346221}" scale="1.000000"/>
+	</SceneryObject>
+	<!--SceneryObject name: TotoF-JodelD11FPLUQ-->
+	<SceneryObject parentGroupID="11" groupIndex="4" lat="27.99243061733880" lon="-82.01597599539677" alt="0.00000000000000" pitch="0.000280" bank="-0.000280" heading="137.657886" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="TRUE" snapToNormal="FALSE">
+		<LibraryObject name="{CECDD775-92DF-4596-9641-279B58E1D793}" scale="1.000000"/>
+	</SceneryObject>
+	<!--SceneryObject name: TotoF-JodelD11FPMXH-->
+	<SceneryObject parentGroupID="11" groupIndex="5" lat="27.99253029599312" lon="-82.01605311388542" alt="0.00000000000000" pitch="0.000888" bank="-0.000847" heading="-43.278736" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="TRUE" snapToNormal="FALSE">
+		<LibraryObject name="{E88B3215-303C-4048-D034-A5047F15DA7D}" scale="1.000000"/>
+	</SceneryObject>
+	<!--SceneryObject name: avion-Cessna172-001-->
+	<SceneryObject parentGroupID="15" groupIndex="3" lat="27.99262128809553" lon="-82.01710200053958" alt="0.00000000000000" pitch="0.001544" bank="-0.001544" heading="-132.797210" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="TRUE" snapToNormal="FALSE">
+		<LibraryObject name="{5B398B25-632F-4A43-3A7D-2627A136319E}" scale="1.000000"/>
+	</SceneryObject>
+	<!--SceneryObject name: avion-GrasshoppersavageMilitary-->
+	<SceneryObject parentGroupID="17" lat="27.99397908315360" lon="-82.01639620903693" alt="0.00000000000000" pitch="0.000369" bank="-0.000355" heading="-94.911072" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="TRUE" snapToNormal="FALSE">
+		<LibraryObject name="{900A9F1F-2AA1-4F02-DB07-F5FE208BDD2D}" scale="1.000000"/>
+	</SceneryObject>
+	<!--SceneryObject name: avion-JAS39-->
+	<SceneryObject parentGroupID="13" lat="27.99289404025576" lon="-82.01774991044917" alt="0.00000000000000" pitch="0.001387" bank="-0.001352" heading="-44.077342" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="TRUE" snapToNormal="FALSE">
+		<LibraryObject name="{F7672E42-E1D1-4A4E-E411-92E1B9CB3632}" scale="1.000000"/>
+	</SceneryObject>
+	<!--SceneryObject name: avion-alphajet-->
+	<SceneryObject parentGroupID="13" groupIndex="10" lat="27.99297806419813" lon="-82.01786219390878" alt="0.00000000000000" pitch="0.001325" bank="-0.001325" heading="135.865467" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="TRUE" snapToNormal="FALSE">
+		<LibraryObject name="{9DC6EA1C-A1B3-4824-B757-97B4D58BBAA6}" scale="1.000000"/>
+	</SceneryObject>
+	<!--SceneryObject name: avion-beech001-->
+	<SceneryObject parentGroupID="15" groupIndex="4" lat="27.99272430428656" lon="-82.01698067749419" alt="0.00000000000000" pitch="0.001544" bank="-0.001544" heading="-132.797210" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="TRUE" snapToNormal="FALSE">
+		<LibraryObject name="{DC9AB479-4D00-4207-CC4E-7239DCE5DE4D}" scale="1.000000"/>
+	</SceneryObject>
+	<!--SceneryObject name: avion-beech002-->
+	<SceneryObject parentGroupID="15" groupIndex="5" lat="27.99281267068520" lon="-82.01705740943524" alt="0.00000000000000" pitch="-0.003039" bank="0.002671" heading="47.201918" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="TRUE" snapToNormal="FALSE">
+		<LibraryObject name="{9E8AC860-94D9-470B-5082-23150118086F}" scale="1.000000"/>
+	</SceneryObject>
+	<!--SceneryObject name: avion-c160-transall-->
+	<SceneryObject parentGroupID="13" groupIndex="11" lat="27.99338121379139" lon="-82.01796516856315" alt="0.00000000000000" pitch="0.000444" bank="-0.000444" heading="134.927436" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="TRUE" snapToNormal="FALSE">
+		<LibraryObject name="{EBD26B36-329D-4FEE-4754-DCC60E26402D}" scale="1.000000"/>
+	</SceneryObject>
+	<!--SceneryObject name: avion-f11grumman-->
+	<SceneryObject parentGroupID="13" groupIndex="8" lat="27.99311500248422" lon="-82.01771439268792" alt="0.00000000000000" pitch="0.000799" bank="-0.000799" heading="135.082960" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="TRUE" snapToNormal="FALSE">
+		<LibraryObject name="{ED0F5110-CA18-4B4F-CF5F-E8097055E749}" scale="1.000000"/>
+	</SceneryObject>
+	<!--SceneryObject name: avion-fouga-->
+	<SceneryObject parentGroupID="13" groupIndex="9" lat="27.99308174882782" lon="-82.01793779673510" alt="0.00000000000000" pitch="0.000669" bank="-0.000656" heading="-44.424643" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="TRUE" snapToNormal="FALSE">
+		<LibraryObject name="{8CF550E2-8896-402E-EFCF-72D1E732DE2C}" scale="1.000000"/>
+	</SceneryObject>
+	<!--SceneryObject name: avion-jaguar-->
+	<SceneryObject parentGroupID="13" groupIndex="2" lat="27.99277692822955" lon="-82.01763238050438" alt="0.00000000000000" pitch="0.000478" bank="-0.000478" heading="136.939200" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="TRUE" snapToNormal="FALSE">
+		<LibraryObject name="{28BA6063-C203-40E7-4695-45557B3258E2}" scale="1.000000"/>
+	</SceneryObject>
+	<!--SceneryObject name: avion-mirage3-->
+	<SceneryObject parentGroupID="13" groupIndex="4" lat="27.99321556067277" lon="-82.01780446393828" alt="0.00000000000000" pitch="0.000287" bank="-0.000328" heading="-46.260475" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="TRUE" snapToNormal="FALSE">
+		<LibraryObject name="{DE93782C-9F91-4027-C44F-A4D02272E229}" scale="1.000000"/>
+	</SceneryObject>
+	<!--SceneryObject name: avion-mirage4-->
+	<SceneryObject parentGroupID="13" groupIndex="5" lat="27.99302241786204" lon="-82.01760168647900" alt="0.00000000000000" pitch="0.000690" bank="-0.000690" heading="-43.044265" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="TRUE" snapToNormal="FALSE">
+		<LibraryObject name="{F7A0A93F-739B-4A0C-032C-A7904FD0AC92}" scale="1.000000"/>
+	</SceneryObject>
+	<!--SceneryObject name: avion-mirage5-->
+	<SceneryObject parentGroupID="13" groupIndex="1" lat="27.99334561083404" lon="-82.01766161546735" alt="0.00000000000000" pitch="0.000382" bank="-0.000382" heading="-43.628779" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="TRUE" snapToNormal="FALSE">
+		<LibraryObject name="{B5FDF2F5-EB35-46F3-821E-8CAE4E61814A}" scale="1.000000"/>
+	</SceneryObject>
+	<!--SceneryObject name: avion-mirageM2000-5-->
+	<SceneryObject parentGroupID="13" groupIndex="3" lat="27.99324515340382" lon="-82.01755914911341" alt="0.00000000000000" pitch="0.000266" bank="-0.000266" heading="133.956634" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="TRUE" snapToNormal="FALSE">
+		<LibraryObject name="{07418FE4-1E20-4ED7-CDF9-A7C3124EBB20}" scale="1.000000"/>
+	</SceneryObject>
+	<!--SceneryObject name: avion-piper18-->
+	<SceneryObject parentGroupID="17" groupIndex="1" lat="27.99379339487967" lon="-82.01660215930195" alt="0.00000000000000" pitch="0.000000" bank="0.000000" heading="-179.999995" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="TRUE" snapToNormal="FALSE">
+		<LibraryObject name="{7751AC72-2198-4E37-F509-9F809C981B60}" scale="1.000000"/>
+	</SceneryObject>
+	<!--SceneryObject name: avion-piper18F-GLLN-->
+	<SceneryObject parentGroupID="17" groupIndex="2" lat="27.99368574570423" lon="-82.01650572897913" alt="0.00000000000000" pitch="0.000000" bank="0.000000" heading="-179.999995" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="TRUE" snapToNormal="FALSE">
+		<LibraryObject name="{A5C29314-9D11-4B64-1C2B-6F43799C93AA}" scale="1.000000"/>
+	</SceneryObject>
+	<!--SceneryObject name: avion-rafaleV1-->
+	<SceneryObject parentGroupID="13" groupIndex="6" lat="27.99318183066457" lon="-82.01742525503896" alt="0.00000000000000" pitch="0.000731" bank="-0.000731" heading="137.399173" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="TRUE" snapToNormal="FALSE">
+		<LibraryObject name="{715586D2-AA40-4FBA-6447-22D28CA1CB43}" scale="1.000000"/>
+	</SceneryObject>
+	<!--SceneryObject name: avion-rafaleV2-->
+	<SceneryObject parentGroupID="13" groupIndex="7" lat="27.99305724183074" lon="-82.01731126499375" alt="0.00000000000000" pitch="0.000519" bank="-0.000519" heading="-135.145265" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="TRUE" snapToNormal="FALSE">
+		<LibraryObject name="{DF45BCAF-06CD-4EDD-A36B-C5FF64ADBDFD}" scale="1.000000"/>
+	</SceneryObject>
+	<!--SceneryObject name: avion-savage-->
+	<SceneryObject parentGroupID="17" groupIndex="3" lat="27.99388349499538" lon="-82.01670047418584" alt="0.00000000000000" pitch="0.000738" bank="-0.000690" heading="-100.230622" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="TRUE" snapToNormal="FALSE">
+		<LibraryObject name="{1063268A-9ADB-41CA-B27D-25AACE1EA39B}" scale="1.000000"/>
+	</SceneryObject>
+	<!--SceneryObject name: avion-savageMilitary-->
+	<SceneryObject parentGroupID="17" groupIndex="4" lat="27.99389874836744" lon="-82.01650119618645" alt="0.00000000000000" pitch="0.000000" bank="0.000000" heading="-179.999995" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="TRUE" snapToNormal="FALSE">
+		<LibraryObject name="{72255FA2-1598-4318-53BC-CAADFEF875B3}" scale="1.000000"/>
+	</SceneryObject>
+	<!--SceneryObject name: avion-savageV2-->
+	<SceneryObject parentGroupID="17" groupIndex="5" lat="27.99379103397594" lon="-82.01639757206151" alt="0.00000000000000" pitch="0.000000" bank="0.000000" heading="-179.999995" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="TRUE" snapToNormal="FALSE">
+		<LibraryObject name="{56AC6DCA-D7F9-480D-519C-190B13492AEE}" scale="1.000000"/>
+	</SceneryObject>
+	<!--SceneryObject name: avion-tecnamP2010-->
+	<SceneryObject parentGroupID="15" lat="27.99270037247602" lon="-82.01737304369638" alt="0.00000000000000" pitch="0.002247" bank="0.001817" heading="-42.633013" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="TRUE" snapToNormal="FALSE">
+		<LibraryObject name="{2992A2FB-F4CA-41C2-1032-1036B4319437}" scale="1.000000"/>
+	</SceneryObject>
+	<!--SceneryObject name: avion-tecnamP92-->
+	<SceneryObject parentGroupID="15" groupIndex="1" lat="27.99245575747897" lon="-82.01730795607874" alt="0.00000000000000" pitch="-0.003039" bank="-0.003422" heading="137.195742" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="TRUE" snapToNormal="FALSE">
+		<LibraryObject name="{46F46CB8-7DEA-4BD7-F912-E0F4B57D0087}" scale="1.000000"/>
+	</SceneryObject>
+	<!--SceneryObject name: avion-totof-PittsRED-->
+	<SceneryObject parentGroupID="14" lat="27.99307526244279" lon="-82.01709923938876" alt="0.00000000000000" pitch="0.000581" bank="-0.000690" heading="46.386632" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="TRUE" snapToNormal="FALSE">
+		<LibraryObject name="{1D49EECA-C30D-44AD-B4B7-9DB37B4826AE}" scale="1.000000"/>
+	</SceneryObject>
+	<!--SceneryObject name: avion-totof-PittsWHITE-->
+	<SceneryObject parentGroupID="14" groupIndex="1" lat="27.99299424397222" lon="-82.01701119878105" alt="0.00000000000000" pitch="0.000594" bank="-0.000594" heading="-133.714641" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="TRUE" snapToNormal="FALSE">
+		<LibraryObject name="{487D507D-72F2-4D3A-2288-8783E3117647}" scale="1.000000"/>
+	</SceneryObject>
+	<!--SceneryObject name: avion-totof-Pittsyellow-->
+	<SceneryObject parentGroupID="14" groupIndex="2" lat="27.99291770963941" lon="-82.01692856897297" alt="0.00000000000000" pitch="0.000642" bank="-0.000642" heading="47.192478" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="TRUE" snapToNormal="FALSE">
+		<LibraryObject name="{ACB52294-E2F8-44E8-50D2-AB81D04693D2}" scale="1.000000"/>
+	</SceneryObject>
+	<!--SceneryObject name: avion-totof-baronMSFS001-->
+	<SceneryObject parentGroupID="12" lat="27.99345397740217" lon="-82.01731915371913" alt="0.00000000000000" pitch="0.000820" bank="-0.000820" heading="43.385959" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="TRUE" snapToNormal="FALSE">
+		<LibraryObject name="{A4A4C1B1-385C-4BD7-6DB2-995658F291B6}" scale="1.000000"/>
+	</SceneryObject>
+	<!--SceneryObject name: avion-twin otter-->
+	<SceneryObject parentGroupID="12" groupIndex="6" lat="27.99381281214128" lon="-82.01691611688715" alt="0.00000000000000" pitch="0.000779" bank="-0.000779" heading="-135.228293" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="TRUE" snapToNormal="FALSE">
+		<LibraryObject name="{BBA7D929-66E9-44BE-ADBC-3DDA0A788D6D}" scale="1.000000"/>
+	</SceneryObject>
+	<!--SceneryObject name: avion-twin otterColorBleu-->
+	<SceneryObject parentGroupID="12" groupIndex="5" lat="27.99366717383034" lon="-82.01708470072839" alt="0.00000000000000" pitch="0.000779" bank="-0.000779" heading="-135.228293" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="TRUE" snapToNormal="FALSE">
+		<LibraryObject name="{E91F7537-CC99-4CE9-E434-2B17E8829A20}" scale="1.000000"/>
+	</SceneryObject>
+	<!--SceneryObject name: avion-twin otterColorOrange-->
+	<SceneryObject parentGroupID="12" groupIndex="4" lat="27.99378613159687" lon="-82.01725265950134" alt="0.00000000000000" pitch="0.001544" bank="-0.001544" heading="44.771671" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="TRUE" snapToNormal="FALSE">
+		<LibraryObject name="{BFC9BFB9-B7A6-4F10-C31A-77F6B61DDD73}" scale="1.000000"/>
+	</SceneryObject>
+	<!--SceneryObject name: avion-twin otterRED-->
+	<SceneryObject parentGroupID="12" groupIndex="3" lat="27.99392666672369" lon="-82.01709683833415" alt="0.00000000000000" pitch="0.001544" bank="-0.001544" heading="44.771671" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="TRUE" snapToNormal="FALSE">
+		<LibraryObject name="{44BBC778-AD19-47BC-5E98-7C255EF4FC0B}" scale="1.000000"/>
+	</SceneryObject>
+	<!--SceneryObject name: avionSt10Diplomate-->
+	<SceneryObject parentGroupID="15" groupIndex="2" lat="27.99253831829911" lon="-82.01720956335843" alt="0.00000000000000" pitch="-0.002206" bank="-0.002445" heading="137.798711" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="TRUE" snapToNormal="FALSE">
+		<LibraryObject name="{778F4C8F-AB10-45D9-3DA3-F5346A9640D5}" scale="1.000000"/>
+	</SceneryObject>
+	<!--SceneryObject name: avionYAKtotof-->
+	<SceneryObject parentGroupID="4" groupIndex="6" lat="27.99331035377853" lon="-82.01633086850566" alt="0.00000000000000" pitch="0.001182" bank="-0.001182" heading="134.829082" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="TRUE" snapToNormal="FALSE">
+		<LibraryObject name="{A7210953-997F-4751-BD2C-E607E28C790C}" scale="1.000000"/>
+	</SceneryObject>
+	<!--SceneryObject name: avioncap10totofFGDTF-->
+	<SceneryObject parentGroupID="16" lat="27.99316705841833" lon="-82.01648470834868" alt="0.00000000000000" pitch="0.001544" bank="-0.001544" heading="-135.407107" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="TRUE" snapToNormal="FALSE">
+		<LibraryObject name="{0E114858-44C8-41F9-5D74-329CA568DCD4}" scale="1.000000"/>
+	</SceneryObject>
+	<!--SceneryObject name: avionstearmantotof-->
+	<SceneryObject parentGroupID="14" groupIndex="3" lat="27.99284450735106" lon="-82.01684143405917" alt="0.00000000000000" pitch="0.000499" bank="-0.000499" heading="136.185953" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="TRUE" snapToNormal="FALSE">
+		<LibraryObject name="{EC05EDBF-874D-4FF1-95FF-35323C46AD6C}" scale="1.000000"/>
+	</SceneryObject>
+	<!--SceneryObject name: helicoEC145totof-->
+	<SceneryObject parentGroupID="6" lat="27.99283897841845" lon="-82.01572934350949" alt="0.00000000000000" pitch="0.000717" bank="-0.000717" heading="-142.983043" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="TRUE" snapToNormal="FALSE">
+		<LibraryObject name="{0D4D1BB5-2797-4C38-4944-5FBCCFF20E64}" scale="1.000000"/>
+	</SceneryObject>
+	<!--SceneryObject name: totof-Cessna172-001-->
+	<SceneryObject parentGroupID="11" groupIndex="6" lat="27.99234857537818" lon="-82.01585169433537" alt="0.00000000000000" pitch="0.000622" bank="-0.000622" heading="45.846187" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="TRUE" snapToNormal="FALSE">
+		<LibraryObject name="{026F938C-38CF-49C9-4390-ED8E584C33E1}" scale="1.000000"/>
+	</SceneryObject>
+	<!--SceneryObject name: totof-Pitts2-->
+	<SceneryObject parentGroupID="8" groupIndex="2" lat="27.99260664167591" lon="-82.01641175404011" alt="0.00000000000000" pitch="0.000977" bank="-0.000977" heading="48.217611" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="TRUE" snapToNormal="FALSE">
+		<LibraryObject name="{525DD78A-217C-4D8A-C7E3-918A439B3763}" scale="1.000000"/>
+	</SceneryObject>
+	<!--SceneryObject name: totof-Ulm-Mk2-->
+	<SceneryObject parentGroupID="10" lat="27.99291529706649" lon="-82.01585150172743" alt="0.00000000000000" pitch="0.000512" bank="-0.000512" heading="134.509934" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="TRUE" snapToNormal="FALSE">
+		<LibraryObject name="{B1105690-7AA9-4D2E-C094-BEB86A9DBAB7}" scale="1.000000"/>
+	</SceneryObject>
+	<!--SceneryObject name: totof-alouetteII-->
+	<SceneryObject parentGroupID="7" lat="27.99266963676169" lon="-82.01555435253069" alt="0.00000000000000" pitch="0.001544" bank="-0.001544" heading="132.723594" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="TRUE" snapToNormal="FALSE">
+		<LibraryObject name="{047C12F2-E2F6-49CF-1522-C760F0339709}" scale="1.000000"/>
+	</SceneryObject>
+	<!--SceneryObject name: totof-alouetteIIRed-->
+	<SceneryObject parentGroupID="7" groupIndex="1" lat="27.99259474238929" lon="-82.01545190818634" alt="0.00000000000000" pitch="0.001544" bank="-0.001544" heading="132.723594" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="TRUE" snapToNormal="FALSE">
+		<LibraryObject name="{45E4C58E-94C1-404B-26EC-66F973B90365}" scale="1.000000"/>
+	</SceneryObject>
+	<!--SceneryObject name: totof-as350-->
+	<SceneryObject parentGroupID="7" groupIndex="2" lat="27.99275537587571" lon="-82.01564307826571" alt="0.00000000000000" pitch="0.000977" bank="-0.000977" heading="43.407170" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="TRUE" snapToNormal="FALSE">
+		<LibraryObject name="{DAB7DA7B-BB54-43DB-D2C7-73F7E55388DE}" scale="1.000000"/>
+	</SceneryObject>
+	<!--SceneryObject name: totof-beech001-->
+	<SceneryObject parentGroupID="11" groupIndex="7" lat="27.99213629752577" lon="-82.01588360920601" alt="0.00000000000000" pitch="0.001544" bank="-0.001544" heading="-133.691418" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="TRUE" snapToNormal="FALSE">
+		<LibraryObject name="{DFCA5268-85D4-4A0F-233D-DC947FE4F6AE}" scale="1.000000"/>
+	</SceneryObject>
+	<!--SceneryObject name: totof-beech002-->
+	<SceneryObject parentGroupID="11" groupIndex="8" lat="27.99224900494547" lon="-82.01597162728820" alt="0.00000000000000" pitch="0.000915" bank="-0.000970" heading="46.157001" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="TRUE" snapToNormal="FALSE">
+		<LibraryObject name="{21A2F54E-7DBF-4D38-F0AC-47379F07EE01}" scale="1.000000"/>
+	</SceneryObject>
+	<!--SceneryObject name: totof-jodel250-001-->
+	<SceneryObject parentGroupID="11" groupIndex="9" lat="27.99242650169679" lon="-82.01617767385947" alt="0.00000000000000" pitch="0.000512" bank="-0.000512" heading="49.288274" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="TRUE" snapToNormal="FALSE">
+		<LibraryObject name="{FCDEA451-F118-4A38-480E-61F2EA544A0F}" scale="1.000000"/>
+	</SceneryObject>
+	<!--SceneryObject name: totof-jodel250-002F-BMZE-->
+	<SceneryObject parentGroupID="11" groupIndex="10" lat="27.99233111358118" lon="-82.01608813429237" alt="0.00000000000000" pitch="0.001052" bank="-0.001052" heading="-131.221034" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="TRUE" snapToNormal="FALSE">
+		<LibraryObject name="{CE767A30-8DA1-4CE2-6F9A-481C34394C6A}" scale="1.000000"/>
+	</SceneryObject>
+	<!--SceneryObject name: totof-jodelDR221Beranger1-->
+	<SceneryObject parentGroupID="11" groupIndex="11" lat="27.99240658261404" lon="-82.01634854060123" alt="0.00000000000000" pitch="0.000342" bank="-0.000342" heading="136.337870" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="TRUE" snapToNormal="FALSE">
+		<LibraryObject name="{7199742D-A46C-4148-1C7B-C0180B0CB122}" scale="1.000000"/>
+	</SceneryObject>
+	<!--SceneryObject name: totof-jodelDR221Beranger1F-BNGA-->
+	<SceneryObject parentGroupID="11" groupIndex="12" lat="27.99233468265763" lon="-82.01626214681765" alt="0.00000000000000" pitch="0.000615" bank="-0.000587" heading="-45.500900" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="TRUE" snapToNormal="FALSE">
+		<LibraryObject name="{33057C39-B536-4F8A-0558-BABAC0F704EA}" scale="1.000000"/>
+	</SceneryObject>
+	<!--SceneryObject name: totof-jodelDR221Beranger1F-BOZU-->
+	<SceneryObject parentGroupID="11" groupIndex="13" lat="27.99224631168451" lon="-82.01618341436547" alt="0.00000000000000" pitch="0.000622" bank="-0.000622" heading="137.253007" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="TRUE" snapToNormal="FALSE">
+		<LibraryObject name="{2B795C68-46CF-4893-EAF3-3D303395ACE2}" scale="1.000000"/>
+	</SceneryObject>
+	<!--SceneryObject name: totof-pendulaire-->
+	<SceneryObject parentGroupID="10" groupIndex="6" lat="27.99271120823230" lon="-82.01629125477091" alt="0.00000000000000" pitch="0.000417" bank="-0.000417" heading="-140.550321" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="TRUE" snapToNormal="FALSE">
+		<LibraryObject name="{EC06C69E-0804-475B-97EC-733F7EF31D6B}" scale="1.000000"/>
+	</SceneryObject>
+	<!--SceneryObject name: totof-pendulaire -jaune-->
+	<SceneryObject parentGroupID="10" groupIndex="3" lat="27.99293116494864" lon="-82.01621920414119" alt="0.00000000000000" pitch="0.000594" bank="-0.000594" heading="-136.940949" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="TRUE" snapToNormal="FALSE">
+		<LibraryObject name="{84E14369-15E7-454E-2107-59DE28DE8C02}" scale="1.000000"/>
+	</SceneryObject>
+	<!--SceneryObject name: totof-pendulaire-Bleu-->
+	<SceneryObject parentGroupID="10" groupIndex="4" lat="27.99285328053266" lon="-82.01612554177522" alt="0.00000000000000" pitch="0.000526" bank="-0.000519" heading="44.938431" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="TRUE" snapToNormal="FALSE">
+		<LibraryObject name="{1A376E3B-EEFE-4FBA-860D-4F8A028A4B79}" scale="1.000000"/>
+	</SceneryObject>
+	<!--SceneryObject name: totof-pendulaire-ROUGE-->
+	<SceneryObject parentGroupID="10" groupIndex="5" lat="27.99277058517999" lon="-82.01603261594242" alt="0.00000000000000" pitch="0.000813" bank="-0.000813" heading="-134.299824" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="TRUE" snapToNormal="FALSE">
+		<LibraryObject name="{D79CDAAB-F614-4A2F-E811-C40C05B6AD35}" scale="1.000000"/>
+	</SceneryObject>
+	<!--SceneryObject name: totof-savage-->
+	<SceneryObject parentGroupID="11" groupIndex="1" lat="27.99215826831209" lon="-82.01607659223433" alt="0.00000000000000" pitch="0.000471" bank="-0.000560" heading="47.782108" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="TRUE" snapToNormal="FALSE">
+		<LibraryObject name="{BB3E9743-8C5D-40E3-71DF-E4C5514F7780}" scale="1.000000"/>
+	</SceneryObject>
+	<!--SceneryObject name: totof-savageV2-->
+	<SceneryObject parentGroupID="11" groupIndex="2" lat="27.99206119554943" lon="-82.01597189171996" alt="0.00000000000000" pitch="0.000546" bank="-0.000546" heading="-132.901643" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="TRUE" snapToNormal="FALSE">
+		<LibraryObject name="{F0495063-80E4-4B85-0D29-A3B97B38ADAA}" scale="1.000000"/>
+	</SceneryObject>
+	<!--SceneryObject name: totof-ulm-skyranger-->
+	<SceneryObject parentGroupID="10" groupIndex="1" lat="27.99307372893516" lon="-82.01605072744117" alt="0.00000000000000" pitch="0.000628" bank="-0.000628" heading="135.473770" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="TRUE" snapToNormal="FALSE">
+		<LibraryObject name="{5310C8F3-0D9D-4C91-E3E2-BA5EB0D41488}" scale="1.000000"/>
+	</SceneryObject>
+	<!--SceneryObject name: totof-ulm-skyranger-BLEU-->
+	<SceneryObject parentGroupID="10" groupIndex="2" lat="27.99300010035257" lon="-82.01594521591835" alt="0.00000000000000" pitch="0.000423" bank="-0.000423" heading="-46.334279" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="TRUE" snapToNormal="FALSE">
+		<LibraryObject name="{2DD1AF21-0752-4AF8-3F6E-7D288982C073}" scale="1.000000"/>
+	</SceneryObject>
+	<!--SceneryObject name: totofAutogireBleu-->
+	<SceneryObject parentGroupID="10" groupIndex="8" lat="27.99279952403656" lon="-82.01636358697803" alt="0.00000000000000" pitch="0.000000" bank="0.000000" heading="-179.999995" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="TRUE" snapToNormal="FALSE">
+		<LibraryObject name="{44AA8598-02CD-4964-670D-A426498A7A8E}" scale="1.000000"/>
+	</SceneryObject>
+	<!--SceneryObject name: totofAutogireRouge-->
+	<SceneryObject parentGroupID="10" groupIndex="7" lat="27.99269013558447" lon="-82.01648256573728" alt="0.00000000000000" pitch="0.000000" bank="0.000000" heading="-179.999995" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="TRUE" snapToNormal="FALSE">
+		<LibraryObject name="{E0B8D2F2-DBA4-4A7A-201F-5ABE114D6429}" scale="1.000000"/>
+	</SceneryObject>
+	<!--SceneryObject name: totofBiplanRAFre8-->
+	<SceneryObject parentGroupID="8" lat="27.99252599929986" lon="-82.01630911591454" alt="0.00000000000000" pitch="0.000471" bank="-0.000471" heading="-136.443165" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="TRUE" snapToNormal="FALSE">
+		<LibraryObject name="{5D9CF17B-F635-48FC-B8BB-8C651BC4E235}" scale="1.000000"/>
+	</SceneryObject>
+	<!--SceneryObject name: totofPOTEZ25-->
+	<SceneryObject parentGroupID="8" groupIndex="1" lat="27.99261600705101" lon="-82.01620785264335" alt="0.00000000000000" pitch="0.001113" bank="-0.001127" heading="135.954642" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="TRUE" snapToNormal="FALSE">
+		<LibraryObject name="{7ADC8145-3AB7-4BD6-98C6-552BC13709BD}" scale="1.000000"/>
+	</SceneryObject>
+	<!--SceneryObject name: totofmaule-->
+	<SceneryObject parentGroupID="11" lat="27.99198483149313" lon="-82.01587789502105" alt="0.00000000000000" pitch="0.000628" bank="-0.000628" heading="46.483488" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="TRUE" snapToNormal="FALSE">
+		<LibraryObject name="{FDF8DA4A-4829-4A37-1CEE-F8374D25262F}" scale="1.000000"/>
+	</SceneryObject>
+	<Group displayName="Avion" parentGroupID="3" groupID="4" groupGenerated="FALSE"/>
+	<Group displayName="BI" parentGroupID="4" groupIndex="4" groupID="14" groupGenerated="FALSE"/>
+	<Group displayName="Bi-plane" parentGroupID="5" groupIndex="4" groupID="8" groupGenerated="FALSE"/>
+	<Group displayName="Bush" parentGroupID="4" groupIndex="2" groupID="17" groupGenerated="FALSE"/>
+	<Group displayName="DEPENDENCIES" groupIndex="1" groupID="2" groupGenerated="FALSE"/>
+	<Group displayName="GA" parentGroupID="4" groupIndex="3" groupID="15" groupGenerated="FALSE"/>
+	<Group displayName="GA" parentGroupID="5" groupIndex="2" groupID="11" groupGenerated="FALSE"/>
+	<Group displayName="Helico" parentGroupID="3" groupIndex="2" groupID="6" groupGenerated="FALSE"/>
+	<Group displayName="Helo" parentGroupID="5" groupID="7" groupGenerated="FALSE"/>
+	<Group displayName="ME" parentGroupID="4" groupIndex="5" groupID="12" groupGenerated="FALSE"/>
+	<Group displayName="MIL" parentGroupID="4" groupIndex="1" groupID="13" groupGenerated="FALSE"/>
+	<Group displayName="TOTOF" parentGroupID="3" groupIndex="1" groupID="5" groupGenerated="FALSE"/>
+	<Group displayName="Turbo-prop" parentGroupID="5" groupIndex="1" groupID="9" groupGenerated="FALSE"/>
+	<Group displayName="UL" parentGroupID="5" groupIndex="3" groupID="10" groupGenerated="FALSE"/>
+	<Group displayName="UL" parentGroupID="4" groupID="16" groupGenerated="FALSE"/>
+	<Group displayName="totof" parentGroupID="2" groupID="3" groupGenerated="FALSE"/>
+	<Airport groupID="1" groupGenerated="FALSE" region="North America" country="US" state="Florida" city="Lakeland" name="Lakeland Linder International" ident="KLAL" lat="27.98763904720545" lon="-82.01899990439415" alt="40.94400024414062" magvar="0.000000" trafficScalar="1.000000" airportTestRadius="2000.00000000000000" applyFlatten="FALSE" isOnTIN="FALSE" tinColorCorrection="TRUE">
+		<Aprons/>
+		<PaintedElements/>
+		<ApronEdgeLights/>
+	</Airport>
+</FSData>
+
