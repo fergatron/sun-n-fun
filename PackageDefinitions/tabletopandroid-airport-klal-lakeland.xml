@@ -16,8 +16,8 @@
 			<Flags>
 				<FSXCompatibility>false</FSXCompatibility>
 			</Flags>
-			<AssetDir>PackageDefinitions\tabletopandroid-airport-klal-lakeland\ContentInfo</AssetDir>
-			<OutputDir>ContentInfo\tabletopandroid-airport-klal-lakeland</OutputDir>
+			<AssetDir>PackageDefinitions\tabletopandroid-airport-klal-lakeland\ContentInfo\</AssetDir>
+			<OutputDir>ContentInfo\tabletopandroid-airport-klal-lakeland\</OutputDir>
 		</AssetGroup>
 		<AssetGroup Name="scenery">
 			<Type>BGL</Type>
