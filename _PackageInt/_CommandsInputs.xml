@@ -1,0 +1,13 @@
+<CommandsInputs>
+	<File Path="C:\Users\marc\Projects\flight-simulator\scenery\sun-n-fun\PackageDefinitions\tabletopandroid-airport-klal-lakeland\ContentInfo\Thumbnail.jpg" Failure="0">
+		<Package Name="tabletopandroid-airport-klal-lakeland" Failure="0">
+			<AssetGroup Name="ContentInfo"/>
+		</Package>
+	</File>
+	<File Path="C:\Users\marc\Projects\flight-simulator\scenery\sun-n-fun\PackageSources\Scenery\airport-klal-lakeland\scenery\KLAL.xml" Failure="0">
+		<Package Name="tabletopandroid-airport-klal-lakeland" Failure="0">
+			<AssetGroup Name="scenery"/>
+		</Package>
+	</File>
+</CommandsInputs>
+
