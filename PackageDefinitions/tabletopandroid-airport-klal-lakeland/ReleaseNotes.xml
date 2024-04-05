@@ -1,5 +1,23 @@
 <ReleaseNotes>
+	<ReleaseNote Version="0.5.0" Date="0-1-1">Added collection v2 library to fill out the vintage area.
+Moved around the Choppertown assets some.
+</ReleaseNote>
 	<ReleaseNote Version="0.1.0" Date="0-1-1">Added primary runways and primary north and south taxis.</ReleaseNote>
+	<ReleaseNote Version="0.3.0" Date="0-1-1">Added dynamic car parking.
+Added numerous SimObjects (A320, 747, Pelican, etc).
+Added various scenery objects to Paradise City and airplane parking.
+Added more fencing to south apron.
+
+</ReleaseNote>
+	<ReleaseNote Version="0.6.0" Date="0-1-1">Remarked the taxiways to match airport chart instead of LittleNav Map.
+Added taxiway designators.
+Added extra aprons.
+Adjusted GA Parking and Camping based on taxiway cleanup.
+</ReleaseNote>
 	<ReleaseNote Version="0.2.0" Date="0-1-1">Added more shelters and structures to the south apron.</ReleaseNote>
+	<ReleaseNote Version="0.4.0" Date="0-1-1">Added GA camp.
+Added more military scenery.
+Added more scenery elements to Paradise City.
+</ReleaseNote>
 </ReleaseNotes>
 
