@@ -4,12 +4,12 @@
   "title": "SUN n FUN in Lakeland",
   "manufacturer": "",
   "creator": "Marc Ferguson",
-  "package_version": "0.7.0",
+  "package_version": "0.11.0",
   "minimum_game_version": "1.36.2",
   "release_notes": {
     "neutral": {
-      "LastUpdate": "VERSION 0.7.0 RELEASED APRIL 5, 2024\\nStarted adding assets to north aprons to fill out space (Sheltair, etc).\nAdded Thumbnail.\n\n",
-      "OlderHistory": "VERSION 0.1.0 RELEASED JANUARY 1, 0\\nAdded primary runways and primary north and south taxis.\\nVERSION 0.2.0 RELEASED JANUARY 1, 0\\nAdded more shelters and structures to the south apron.\\nVERSION 0.3.0 RELEASED JANUARY 1, 0\\nAdded dynamic car parking.\nAdded numerous SimObjects (A320, 747, Pelican, etc).\nAdded various scenery objects to Paradise City and airplane parking.\nAdded more fencing to south apron.\n\n\\nVERSION 0.4.0 RELEASED JANUARY 1, 0\\nAdded GA camp.\nAdded more military scenery.\nAdded more scenery elements to Paradise City.\n\\nVERSION 0.5.0 RELEASED APRIL 4, 2024\\nAdded collection v2 library to fill out the vintage area.\nMoved around the Choppertown assets some.\n\\nVERSION 0.6.0 RELEASED APRIL 5, 2024\\nRemarked the taxiways to match airport chart instead of LittleNav Map.\nAdded taxiway designators.\nAdded extra aprons.\nAdjusted GA Parking and Camping based on taxiway cleanup.\n"
+      "LastUpdate": "VERSION 0.11.0 RELEASED APRIL 7, 2024\\nAdded more crowd placements.\nAdded more GA parking.\nFixing taxiway signs on north apron.",
+      "OlderHistory": "VERSION 0.1.0 RELEASED MARCH 9, 2024\\nAdded primary runways and primary north and south taxis.\\nVERSION 0.2.0 RELEASED MARCH 28, 2024\\nAdded more shelters and structures to the south apron.\\nVERSION 0.3.0 RELEASED MARCH 31, 2024\\nAdded dynamic car parking.\nAdded numerous SimObjects (A320, 747, Pelican, etc).\nAdded various scenery objects to Paradise City and airplane parking.\nAdded more fencing to south apron.\n\n\\nVERSION 0.4.0 RELEASED APRIL 2, 2024\\nAdded GA camp.\nAdded more military scenery.\nAdded more scenery elements to Paradise City.\n\\nVERSION 0.5.0 RELEASED APRIL 4, 2024\\nAdded collection v2 library to fill out the vintage area.\nMoved around the Choppertown assets some.\n\\nVERSION 0.6.0 RELEASED APRIL 5, 2024\\nRemarked the taxiways to match airport chart instead of LittleNav Map.\nAdded taxiway designators.\nAdded extra aprons.\nAdjusted GA Parking and Camping based on taxiway cleanup.\n\\nVERSION 0.7.0 RELEASED APRIL 5, 2024\\nStarted adding assets to north aprons to fill out space (Sheltair, etc).\nAdded Thumbnail.\n\n\\nVERSION 0.8.0 RELEASED APRIL 6, 2024\\nAdded more scenery elements to north apron.\nAdded a ton of GA parking.\nAdded terminal parking to north apron.\nRemoved certain assets to help with frame rates.\\nVERSION 0.9.0 RELEASED APRIL 6, 2024\\nRestored default ILS definitions.\\nVERSION 0.10.0 RELEASED APRIL 6, 2024\\nAdded more dynamic car parking.\nAdded more scenery elements, like bathrooms and cones blocking taxiways.\nAdded Airpower dependency.\nAdded light posts around the airport.\nFixed some of the south aprons taxiway signs.\nChanged thumbnail."
     }
   }
 }
